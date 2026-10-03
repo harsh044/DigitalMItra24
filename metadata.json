@@ -1,0 +1,6 @@
+{
+  "name": "Digital Mitra - Government & Private Digital Services",
+  "description": "Your local digital service partner for government applications, documentation, online services and private digital services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
